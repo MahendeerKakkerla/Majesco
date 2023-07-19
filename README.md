@@ -1,0 +1,2 @@
+# Majesco
+code of majesco
